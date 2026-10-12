@@ -1,0 +1,12 @@
+Welcome to our university.
+MITADT
+For technical support, contact support@example.com.
+
+The administration email is admin@university.edu.
+
+Invalid addresses:
+
+student@com
+user@.com
+
+For further information, contact info@gmail.com.
